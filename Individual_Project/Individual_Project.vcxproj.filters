@@ -14,4 +14,42 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transaction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Employee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Branch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dataView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dataEdit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dataSearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dataSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dataCalc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fileIO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
